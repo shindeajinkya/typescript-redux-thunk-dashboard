@@ -1,4 +1,3 @@
-import { act } from "react-dom/test-utils"
 import { Dispatch } from "redux"
 import { addProduct, setProducts } from "./actions"
 import { base } from "./base"

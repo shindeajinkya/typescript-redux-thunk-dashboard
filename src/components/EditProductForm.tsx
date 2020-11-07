@@ -1,6 +1,5 @@
 import React, { FC, useEffect } from 'react'
 import { Form, Modal, Input } from 'antd'
-import { Store } from 'antd/lib/form/interface'
 import { Product } from '../productReducer'
 
 interface EditProductFormProps {

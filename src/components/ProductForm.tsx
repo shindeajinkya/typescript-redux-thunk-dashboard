@@ -1,6 +1,5 @@
 import React, { FC } from 'react'
 import { Form, Modal, Input } from 'antd'
-import { Store } from 'antd/lib/form/interface'
 
 interface ProductFormProps {
     visible: boolean;
